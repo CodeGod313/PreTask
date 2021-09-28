@@ -9,7 +9,7 @@ import java.util.List;
 
 public class StringFilter {
     public static final String REGEX_INTEGER = "-?\\d+";
-    public static final String REGEX_FLOAT = "-?\\d+.\\d+";
+    public static final String REGEX_FLOAT = "-?\\d+\\.\\d+";
     static Logger logger = LogManager.getLogger(StringFilter.class);
     public ArrayList<String> filterNum(ArrayList<String> strings){
          List<String> stringList = strings.stream()
