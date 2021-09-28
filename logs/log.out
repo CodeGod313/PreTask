@@ -1,0 +1,209 @@
+2021-09-28 07:27:54 INFO  Main:29 - Converted line
+2021-09-28 07:27:54 INFO  Main:30 - 123.0
+2021-09-28 07:27:54 INFO  Main:30 - 3.0
+2021-09-28 07:27:54 INFO  Main:30 - 3.0
+2021-09-28 07:27:54 INFO  Main:30 - 3.0
+2021-09-28 07:27:54 INFO  Main:29 - Converted line
+2021-09-28 07:27:54 INFO  Main:30 - 1321321.0
+2021-09-28 07:27:54 INFO  Main:30 - 12.2
+2021-09-28 07:27:54 INFO  Main:29 - Converted line
+2021-09-28 07:27:54 INFO  Main:30 - 1.23123123E8
+2021-09-28 08:31:24 INFO  Main:29 - Converted line
+2021-09-28 08:31:24 INFO  Main:30 - 123.0
+2021-09-28 08:31:24 INFO  Main:30 - 3.0
+2021-09-28 08:31:24 INFO  Main:30 - 3.0
+2021-09-28 08:31:24 INFO  Main:30 - 3.0
+2021-09-28 08:31:24 INFO  Main:29 - Converted line
+2021-09-28 08:31:24 INFO  Main:30 - 1321321.0
+2021-09-28 08:31:24 INFO  Main:30 - 12.2
+2021-09-28 08:31:24 INFO  Main:29 - Converted line
+2021-09-28 08:31:24 INFO  Main:30 - 1.23123123E8
+2021-09-28 08:31:41 INFO  Main:29 - Converted line
+2021-09-28 08:31:41 INFO  Main:30 - 123.0
+2021-09-28 08:31:41 INFO  Main:30 - 3.0
+2021-09-28 08:31:41 INFO  Main:30 - 3.0
+2021-09-28 08:31:41 INFO  Main:30 - 3.0
+2021-09-28 08:31:41 INFO  Main:29 - Converted line
+2021-09-28 08:31:41 INFO  Main:30 - 1321321.0
+2021-09-28 08:31:41 INFO  Main:30 - 12.2
+2021-09-28 08:31:41 INFO  Main:29 - Converted line
+2021-09-28 08:31:41 INFO  Main:30 - 1.23123123E8
+2021-09-28 08:31:41 INFO  Main:29 - Converted line
+2021-09-28 08:31:41 INFO  Main:30 - -222.0
+2021-09-28 08:37:32 INFO  Main:29 - Converted line
+2021-09-28 08:37:32 INFO  Main:30 - 222.0
+2021-09-28 08:37:53 ERROR InputReader:19 - ErrorWhileReadingFile
+2021-09-28 08:39:04 ERROR InputReader:19 - ErrorWhileReadingFile
+2021-09-28 08:39:20 ERROR InputReader:19 - ErrorWhileReadingFile
+2021-09-28 08:59:31 INFO  Main:31 - Converted line
+2021-09-28 08:59:31 INFO  Main:32 - 222.0
+2021-09-28 08:59:31 INFO  Main:32 - 32.0
+2021-09-28 08:59:31 INFO  Main:31 - Converted line
+2021-09-28 08:59:31 INFO  Main:32 - 123.0
+2021-09-28 08:59:31 INFO  Main:32 - 333.0
+2021-09-28 08:59:31 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 08:59:31 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 08:59:50 INFO  Main:31 - Converted line
+2021-09-28 08:59:50 INFO  Main:32 - 222.0
+2021-09-28 08:59:50 INFO  Main:32 - 32.0
+2021-09-28 08:59:50 INFO  Main:31 - Converted line
+2021-09-28 08:59:50 INFO  Main:32 - 123.0
+2021-09-28 08:59:50 INFO  Main:32 - 333.0
+2021-09-28 08:59:50 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 08:59:50 INFO  Main:39 - 254.0
+2021-09-28 08:59:50 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 08:59:50 INFO  Main:39 - 456.0
+2021-09-28 09:02:30 INFO  Main:31 - Converted line
+2021-09-28 09:02:30 INFO  Main:32 - 222.0
+2021-09-28 09:02:30 INFO  Main:32 - 32.0
+2021-09-28 09:02:30 INFO  Main:31 - Converted line
+2021-09-28 09:02:30 INFO  Main:32 - 123.0
+2021-09-28 09:02:30 INFO  Main:32 - 333.0
+2021-09-28 09:02:30 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:02:30 INFO  Main:39 - 254.0
+2021-09-28 09:02:30 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:02:30 INFO  Main:42 - edu.epam.pretask.entity.CustomNumber@7a92922
+2021-09-28 09:02:30 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:02:30 INFO  Main:39 - 456.0
+2021-09-28 09:02:30 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:02:30 INFO  Main:42 - edu.epam.pretask.entity.CustomNumber@71f2a7d5
+2021-09-28 09:02:37 INFO  Main:31 - Converted line
+2021-09-28 09:02:37 INFO  Main:32 - 222.0
+2021-09-28 09:02:37 INFO  Main:32 - 32.0
+2021-09-28 09:02:37 INFO  Main:31 - Converted line
+2021-09-28 09:02:37 INFO  Main:32 - 123.0
+2021-09-28 09:02:37 INFO  Main:32 - 333.0
+2021-09-28 09:02:37 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:02:37 INFO  Main:39 - 254.0
+2021-09-28 09:02:37 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:02:37 INFO  Main:42 - 0.0
+2021-09-28 09:02:37 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:02:37 INFO  Main:39 - 456.0
+2021-09-28 09:02:37 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:02:37 INFO  Main:42 - 0.0
+2021-09-28 09:03:12 INFO  Main:31 - Converted line
+2021-09-28 09:03:12 INFO  Main:32 - 222.0
+2021-09-28 09:03:12 INFO  Main:32 - 32.0
+2021-09-28 09:03:12 INFO  Main:31 - Converted line
+2021-09-28 09:03:12 INFO  Main:32 - 123.0
+2021-09-28 09:03:12 INFO  Main:32 - 333.0
+2021-09-28 09:03:12 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:03:12 INFO  Main:39 - 254.0
+2021-09-28 09:03:12 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:03:12 INFO  Main:42 - 7104.0
+2021-09-28 09:03:12 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:03:12 INFO  Main:39 - 456.0
+2021-09-28 09:03:12 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:03:12 INFO  Main:42 - 40959.0
+2021-09-28 09:10:22 INFO  Main:31 - Converted line
+2021-09-28 09:10:22 INFO  Main:32 - 222.0
+2021-09-28 09:10:22 INFO  Main:32 - 32.0
+2021-09-28 09:10:22 INFO  Main:31 - Converted line
+2021-09-28 09:10:22 INFO  Main:32 - 123.0
+2021-09-28 09:10:22 INFO  Main:32 - 333.0
+2021-09-28 09:10:22 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:10:22 INFO  Main:39 - 254.0
+2021-09-28 09:10:22 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:10:22 INFO  Main:42 - 7104.0
+2021-09-28 09:10:22 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:10:22 INFO  Main:39 - 456.0
+2021-09-28 09:10:22 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:10:22 INFO  Main:42 - 40959.0
+2021-09-28 09:10:39 INFO  Main:31 - Converted line
+2021-09-28 09:10:39 INFO  Main:32 - 222.0
+2021-09-28 09:10:39 INFO  Main:32 - 32.0
+2021-09-28 09:10:39 INFO  Main:31 - Converted line
+2021-09-28 09:10:39 INFO  Main:32 - 123.0
+2021-09-28 09:10:39 INFO  Main:32 - 333.0
+2021-09-28 09:10:39 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:10:39 INFO  Main:39 - 254.0
+2021-09-28 09:10:39 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:10:39 INFO  Main:42 - 7104.0
+2021-09-28 09:10:39 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:10:39 INFO  Main:39 - 456.0
+2021-09-28 09:10:39 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:10:39 INFO  Main:42 - 40959.0
+2021-09-28 09:13:22 INFO  Main:31 - Converted line
+2021-09-28 09:13:22 INFO  Main:32 - 222.0
+2021-09-28 09:13:22 INFO  Main:32 - 32.0
+2021-09-28 09:13:22 INFO  Main:31 - Converted line
+2021-09-28 09:13:22 INFO  Main:32 - 123.0
+2021-09-28 09:13:22 INFO  Main:32 - 333.0
+2021-09-28 09:13:22 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:13:22 INFO  Main:39 - 254.0
+2021-09-28 09:13:22 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:13:22 INFO  Main:42 - 7104.0
+2021-09-28 09:13:22 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:13:22 INFO  Main:39 - 456.0
+2021-09-28 09:13:22 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:13:22 INFO  Main:42 - 40959.0
+2021-09-28 09:13:29 INFO  Main:31 - Converted line
+2021-09-28 09:13:29 INFO  Main:32 - 222.0
+2021-09-28 09:13:29 INFO  Main:32 - 32.0
+2021-09-28 09:13:29 INFO  Main:31 - Converted line
+2021-09-28 09:13:29 INFO  Main:32 - 123.0
+2021-09-28 09:13:29 INFO  Main:32 - 333.0
+2021-09-28 09:13:29 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:13:29 INFO  Main:39 - 254.0
+2021-09-28 09:13:29 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:13:29 INFO  Main:42 - 7104.0
+2021-09-28 09:13:29 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:13:29 INFO  Main:39 - 456.0
+2021-09-28 09:13:29 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:13:29 INFO  Main:42 - 40959.0
+2021-09-28 09:15:21 INFO  Main:31 - Converted line
+2021-09-28 09:15:21 INFO  Main:32 - 222.0
+2021-09-28 09:15:21 INFO  Main:32 - 32.0
+2021-09-28 09:15:21 INFO  Main:31 - Converted line
+2021-09-28 09:15:21 INFO  Main:32 - 123.0
+2021-09-28 09:15:21 INFO  Main:32 - 333.0
+2021-09-28 09:15:21 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:15:21 INFO  Main:39 - 254.0
+2021-09-28 09:15:21 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:15:21 INFO  Main:42 - 7104.0
+2021-09-28 09:15:21 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:15:21 INFO  Main:39 - 456.0
+2021-09-28 09:15:21 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:15:21 INFO  Main:42 - 40959.0
+2021-09-28 09:15:35 INFO  Main:31 - Converted line
+2021-09-28 09:15:35 INFO  Main:32 - 222.0
+2021-09-28 09:15:35 INFO  Main:32 - 32.0
+2021-09-28 09:15:35 INFO  Main:31 - Converted line
+2021-09-28 09:15:35 INFO  Main:32 - 123.0
+2021-09-28 09:15:35 INFO  Main:32 - 333.0
+2021-09-28 09:15:35 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:15:35 INFO  Main:39 - 254.0
+2021-09-28 09:15:35 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:15:35 INFO  Main:42 - 7104.0
+2021-09-28 09:15:35 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:15:35 INFO  Main:39 - 456.0
+2021-09-28 09:15:35 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:15:35 INFO  Main:42 - 40959.0
+2021-09-28 09:16:30 INFO  Main:31 - Converted line
+2021-09-28 09:16:30 INFO  Main:32 - 222.0
+2021-09-28 09:16:30 INFO  Main:32 - 32.0
+2021-09-28 09:16:30 INFO  Main:31 - Converted line
+2021-09-28 09:16:30 INFO  Main:32 - 123.0
+2021-09-28 09:16:30 INFO  Main:32 - 333.0
+2021-09-28 09:16:30 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:16:30 INFO  Main:39 - 254.0
+2021-09-28 09:16:30 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:16:30 INFO  Main:42 - 7104.0
+2021-09-28 09:16:30 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:16:30 INFO  Main:39 - 456.0
+2021-09-28 09:16:30 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:16:30 INFO  Main:42 - 40959.0
+2021-09-28 09:17:58 INFO  Main:31 - Converted line
+2021-09-28 09:17:58 INFO  Main:32 - 222.0
+2021-09-28 09:17:58 INFO  Main:32 - 32.0
+2021-09-28 09:17:58 INFO  Main:31 - Converted line
+2021-09-28 09:17:58 INFO  Main:32 - 123.0
+2021-09-28 09:17:58 INFO  Main:32 - 333.0
+2021-09-28 09:17:58 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:17:58 INFO  Main:39 - 254.0
+2021-09-28 09:17:58 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:17:58 INFO  Main:42 - 7104.0
+2021-09-28 09:17:58 INFO  Main:37 - Sum of all numbers in line
+2021-09-28 09:17:58 INFO  Main:39 - 456.0
+2021-09-28 09:17:58 INFO  Main:40 - Multiplication result of numbers in line
+2021-09-28 09:17:58 INFO  Main:42 - 40959.0
