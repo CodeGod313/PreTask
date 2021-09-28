@@ -58,7 +58,8 @@ public class NumberServiceTest extends TestCase {
         CustomNumber number2 = new CustomNumber(55);
         CustomNumber actualNumber = numberService.subtract(number1, number2);
         CustomNumber expectedNumber = new CustomNumber(-22);
-
-        Assert.assertEquals(expectedNumber.getNum(), actualNumber.getNum());
+        Double expected = expectedNumber.getNum();
+        Double actual = actualNumber.getNum();
+        Assert.assertEquals(expected, actual);
     }
 }

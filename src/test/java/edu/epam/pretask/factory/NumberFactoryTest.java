@@ -28,6 +28,9 @@ public class NumberFactoryTest extends TestCase {
         CustomNumber actualNumber2 = customNumbers.get(1);
         Double expected1 = 555.222;
         Double expected2 = 777.333;
-        Assert.assertEquals(expected1, actualNumber1.getNum());
+        Double actual1 = actualNumber1.getNum();
+        Double actual2 = actualNumber2.getNum();
+        Assert.assertEquals(expected1, actual1);
+        Assert.assertEquals(expected2, actual2);
     }
 }
