@@ -16,7 +16,7 @@ public class InputReader {
         try (Stream<String> lines = Files.lines(filePath)) {
             return new ArrayList<>(lines.toList());
         } catch (IOException ex) {
-            logger.error("ErrorWhileReadingFile");
+            logger.error("ErrorWhileReadingFile", ex);
         }
         return null;
     }
